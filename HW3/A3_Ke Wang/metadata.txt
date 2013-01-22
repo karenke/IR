@@ -1,0 +1,217 @@
+pageID: 1 pageRank: 17.985233363658175 title: Home | Cornell University Library, Anchors: Library,Home,Cornell University Library,FINE ARTS LIBRARY,catalog,Library Catalog,Library catalog
+pageID: 2 pageRank: 10.907627193538252 title: About Us | Cornell University Library, Anchors: About Us
+pageID: 3 pageRank: 0.76603641525752 title: Cornell University Library Selectors | Cornell University Library, Anchors: List of subject librarians,List of Subject Librarians,Subject area specialists,Contact List for Subject Librarians,selectors,library staff who select materials
+pageID: 4 pageRank: 0.30725743816637235 title: Collections | Cornell University Library, Anchors: Collections
+pageID: 5 pageRank: 1.5267586143832779 title: Collections Overview | Cornell University Library, Anchors: Collections overview,Collections Overview,Collections,Library collections
+pageID: 6 pageRank: 0.19282351226305383 title: Special Collections | Cornell University Library, Anchors: Special Collections
+pageID: 7 pageRank: 0.4900719743511404 title: Partnerships & Initiatives | Cornell University Library, Anchors: Partnerships & Initiatives
+pageID: 8 pageRank: 1.1132167689595018 title: Inside the Library | Cornell University Library, Anchors: Inside the Library
+pageID: 9 pageRank: 0.5552547839459286 title: Central Departments | Cornell University Library, Anchors: Central Departments
+pageID: 10 pageRank: 0.20163842759311013 title: Interlibrary Services | Cornell University Library, Anchors: Interlibrary Loan,Interlibrary Services
+pageID: 11 pageRank: 0.5457329648019082 title: History and Purpose | Cornell University Library, Anchors: History and Purpose
+pageID: 12 pageRank: 0.8220471503443166 title: Libraries | Cornell University Library, Anchors: Libraries,List of Libraries,contact the library,indvidual libraries,individual libraries' websites,Individual Libraries,Unit Libraries
+pageID: 13 pageRank: 0.5457329648019082 title: Public Policies | Cornell University Library, Anchors: Public Policies
+pageID: 14 pageRank: 0.5457329648019082 title: Library Publications | Cornell University Library, Anchors: Library Publications
+pageID: 15 pageRank: 0.5457329648019082 title: Strategic Planning | Cornell University Library, Anchors: Strategic Plan
+pageID: 16 pageRank: 0.18987157521625309 title: Nondisclosure Clauses | Cornell University Library, Anchors: Nondisclosure Clauses in Licenses
+pageID: 17 pageRank: 0.207737620149281 title: Partnerships & Initiatives | Cornell University Library, Anchors: Cornell Faculty and Programs
+pageID: 18 pageRank: 0.20704133864057658 title: Partnerships & Initiatives | Cornell University Library, Anchors: Corporate Partnerships
+pageID: 19 pageRank: 0.20704133864057658 title: Partnerships and Initiatives | Cornell University Library, Anchors: Global Engagement
+pageID: 20 pageRank: 0.20704133864057658 title: Partnerships & Initiatives | Cornell University Library, Anchors: Other Universities and University Libraries
+pageID: 21 pageRank: 0.2398932368235303 title: Other Grants Received Recently | Cornell University Library, Anchors: Other Grants,Other Grants Received Recently
+pageID: 22 pageRank: 0.23295020871169522 title: Staff | Cornell University Library, Anchors: Staff
+pageID: 23 pageRank: 0.5042153905853214 title: Library Executive Group | Cornell University Library, Anchors: Library Executive Group
+pageID: 24 pageRank: 0.5440153575875528 title: Staff Directory | Cornell University Library, Anchors: « first,1,‹ previous,Staff Directory
+pageID: 25 pageRank: 0.21850951889848147 title: Staff Directory | Cornell University Library, Anchors: ‹ previous,2,next ›
+pageID: 26 pageRank: 0.21850951889848147 title: Staff Directory | Cornell University Library, Anchors: 3,next ›,‹ previous
+pageID: 27 pageRank: 0.21850951889848147 title: Staff Directory | Cornell University Library, Anchors: 4,next ›,last »
+pageID: 28 pageRank: 0.5159137965337567 title: University Librarian | Cornell University Library, Anchors: University Librarian,more...
+pageID: 29 pageRank: 0.19267953323548187 title: Selected Publications | Cornell University Library, Anchors: Selected publications
+pageID: 30 pageRank: 1.5150671094147927 title: Visitor Information | Cornell University Library, Anchors: Visitor Information,For Visitors
+pageID: 31 pageRank: 0.5949947915726725 title: Addresses | Cornell University Library, Anchors: Accessible alternative to the map,Addresses
+pageID: 32 pageRank: 0.6775359071034732 title: Visitor Privileges | Cornell University Library, Anchors: Visitor Privileges,Visitors
+pageID: 33 pageRank: 0.22726037963187729 title: Guest Borrowers | Cornell University Library, Anchors: Guest Borrower,Guest Borrower Eligibility and Fees,Guest Borrower eligibility and fees
+pageID: 34 pageRank: 0.6637379459752549 title: Visitors from Weill Cornell Medical College | Cornell University Library, Anchors: Weill Visitors,Weill Cornell Medical College visitors
+pageID: 35 pageRank: 10.052593566017906 title: Search | Cornell University Library, Anchors: Search,Text-only Search Box,alternative library search page
+pageID: 36 pageRank: 0.22832556437450352 title: Access Services Staff | Cornell University Library, Anchors: Contact a Reserve Desk,Contact us,reserves coordinator,Contact Us
+pageID: 37 pageRank: 0.2152817075553845 title: Cornell University Library Administrative Operations, Anchors: Library Administrative Operations,Administrative Operations
+pageID: 38 pageRank: 0.1589466337205043 title: Cornell University Library Human Resources
+pageID: 39 pageRank: 0.7602812628726993 title: Cornell University Library Human Resources, Anchors: Employment
+pageID: 40 pageRank: 0.1589466337205043 title: Cornell University Library Human Resources
+pageID: 41 pageRank: 0.1589466337205043 title: Library Annex Transfer Form | Cornell University Library
+pageID: 42 pageRank: 0.1589466337205043 title: Expansion Overview (Long Version) | Cornell University Library
+pageID: 43 pageRank: 0.1589466337205043 title: Project Personnel | Cornell University Library
+pageID: 44 pageRank: 0.1589466337205043 title: Publicity | Cornell University Library
+pageID: 45 pageRank: 0.1589466337205043 title: Expansion Overview (Short Version) | Cornell University Library
+pageID: 46 pageRank: 0.17020535407556933 title: Project Team Contact Information | Cornell University Library, Anchors: Project Contact Information
+pageID: 47 pageRank: 0.1589466337205043 title: Q&A for the Annex Moving Project | Cornell University Library
+pageID: 48 pageRank: 0.1701272277230151 title: Services | Cornell University Library, Anchors: Services
+pageID: 49 pageRank: 0.17099731285658368 title: Hours and Staff Directory | Cornell University Library, Anchors: Hours and Staff Directory
+pageID: 50 pageRank: 2.3121231886377673 title: Ask a Librarian | Cornell University Library, Anchors: ask a librarian,Ask a Librarian,Ask a Librarian!,ask a librarian.
+pageID: 51 pageRank: 0.28177851666225795 title: Chat Privacy & Confidentiality | Cornell University Library, Anchors: Your chat privacy
+pageID: 52 pageRank: 0.8157936648436134 title: Ask a Librarian - Email | Cornell University Library, Anchors: contact a librarian,E-mail Us,e-mail
+pageID: 53 pageRank: 0.4011200577487352 title: Reference Desk Directory | Cornell University Library, Anchors: Phone Us,individual library
+pageID: 54 pageRank: 0.24506616305154283 title: Citation Management Help | Cornell University Library, Anchors: Send us your citation management question,contact us
+pageID: 55 pageRank: 0.1630376909391376 title: Collection Development Policy for Sub-Saharan Africa, Anchors: African Studies
+pageID: 56 pageRank: 0.1630376909391376 title: American History Collection Policy, Anchors: American History
+pageID: 57 pageRank: 0.1630376909391376 title: Ancient History Collection Policy, Anchors: Ancient History
+pageID: 58 pageRank: 0.1630376909391376 title: Anglo-American Literature and
+Comparative Literature, Anchors: Anglo-American Literature & Comparative Literature
+pageID: 59 pageRank: 0.1630376909391376 title: Anthropology Collection Policy, Anchors: Anthropology
+pageID: 60 pageRank: 0.1630376909391376 title: Archaeology Collection Policy, Anchors: Archaeology
+pageID: 61 pageRank: 0.1630376909391376 title: Astronomy Collection Policy, Anchors: Astronomy
+pageID: 62 pageRank: 0.1630376909391376 title: Bibliography & Information Science Collection Policy, Anchors: Bibliography and Information Science
+pageID: 63 pageRank: 0.1630376909391376 title: British History Collection Policy, Anchors: British and Commonwealth History
+pageID: 64 pageRank: 0.1630376909391376 title: Chemistry Collection Policy, Anchors: Chemistry
+pageID: 65 pageRank: 0.1630376909391376 title: CISER Data Archive Collection Policy, Anchors: CISER Data Archive
+pageID: 66 pageRank: 0.1630376909391376 title: Classics Collection Policy, Anchors: Classics
+pageID: 67 pageRank: 0.1630376909391376 title: About Collection Development at Cornell, Anchors: About Collection Development at Cornell University Library
+pageID: 68 pageRank: 0.1630376909391376 title: Echols Collection Development Policy, Anchors: Southeast Asian Studies
+pageID: 69 pageRank: 0.1630376909391376 title: Economics, Government and Sociology Collection Policy, Anchors: Economics, Government & Sociology
+pageID: 70 pageRank: 0.1630376909391376 title: Western European Social Sciences Collection Policy, Anchors: Western European Social Sciences
+pageID: 71 pageRank: 0.20923170669205712 title: Fine Arts Collection Policy, Anchors: Fine Arts
+pageID: 72 pageRank: 0.1630376909391376 title: French and Italian Language and Literature Collection Policy, Anchors: French & Italian Language & Literature
+pageID: 73 pageRank: 0.1630376909391376 title: French History Collection Policy, Anchors: French History
+pageID: 74 pageRank: 0.1630376909391376 title: General History Collection Policy, Anchors: General History
+pageID: 75 pageRank: 0.1630376909391376 title: Geography Collection Policy, Anchors: Geography
+pageID: 76 pageRank: 0.1630376909391376 title: History of Science Collection Policy, Anchors: History of Science
+pageID: 77 pageRank: 0.2454631716448085 title: Collection Development Policies, Anchors: Collection Policies by Subjects
+pageID: 78 pageRank: 0.1630376909391376 title: Industrial Relations, Anchors: Industrial & Labor Relations
+pageID: 79 pageRank: 0.1630376909391376 title: Iberian History Collection Policy, Anchors: Iberian History
+pageID: 80 pageRank: 0.1630376909391376 title: Iberian Language and Literature Collection Policy, Anchors: Iberian Language & Literature
+pageID: 81 pageRank: 0.1630376909391376 title: Icelandic Collection Policy, Anchors: Fiske Icelandic Collection
+pageID: 82 pageRank: 0.1630376909391376 title: Italian History Collection Policy, Anchors: Italian History
+pageID: 83 pageRank: 0.1630376909391376 title: Collection Development Policy for Japan Studies, Anchors: Japanese Studies
+pageID: 84 pageRank: 0.1630376909391376 title: Jewish Studies Collection Policy, Anchors: Jewish Studies
+pageID: 85 pageRank: 0.1630376909391376 title: Management Library Collection Policy, Anchors: Johnson School of Management
+pageID: 86 pageRank: 0.1630376909391376 title: Collection Development Policy for Latin American Studies, Anchors: Latin American Studies
+pageID: 87 pageRank: 0.1630376909391376 title: Linguistics Collection Policy, Anchors: Linguisitcs
+pageID: 88 pageRank: 0.1630376909391376 title: Cartographic Collection Policy, Anchors: Cartographic Materials
+pageID: 89 pageRank: 0.1630376909391376 title: Mathematics Collection Policy, Anchors: Mathematics
+pageID: 90 pageRank: 0.1630376909391376 title: Medieval Studies Collection Policy, Anchors: Medieval Studies
+pageID: 91 pageRank: 0.20923170669205712 title: Music and Dance Collection Policy, Anchors: Music and Dance,Music
+pageID: 92 pageRank: 0.1630376909391376 title: North American Newspapers Collection Policy, Anchors: North American Newspapers
+pageID: 93 pageRank: 0.1630376909391376 title: North European History Collection Policy, Anchors: North European History
+pageID: 94 pageRank: 0.1630376909391376 title: North European Literature and Language Collection Policy, Anchors: North European Language & Literature
+pageID: 95 pageRank: 0.1630376909391376 title: Numismatics Collection Policy, Anchors: Numismatics
+pageID: 96 pageRank: 0.1630376909391376 title: Philosophy Collection Policy, Anchors: Philosophy
+pageID: 97 pageRank: 0.1630376909391376 title: Astronomy Collection Policy, Anchors: Physics
+pageID: 98 pageRank: 0.1630376909391376 title: Psychology Collection Policy, Anchors: Psychology
+pageID: 99 pageRank: 0.1630376909391376 title: Religion Collection Policy, Anchors: Religion
+pageID: 100 pageRank: 0.1630376909391376 title: Collection Development Policy for Slavic and East European Studies, Anchors: Slavic & East European Studies
+pageID: 101 pageRank: 0.1630376909391376 title: Collection Development Policy for South Asia, Anchors: South Asian Studies
+pageID: 102 pageRank: 0.23232871456851675 title: Terms and Abbreviations Used in the Collection Development Policies, Anchors: Key to Codes & Abbreviations,Terms and Abbreviations
+pageID: 103 pageRank: 0.1630376909391376 title: Women's Studies Collection Policy, Anchors: Womens Studies
+pageID: 104 pageRank: 0.1630376909391376 title: Cornell University Library Gift Policy, Anchors: Gifts of Books and Materials
+pageID: 105 pageRank: 0.1630376909391376 title: CD-Pol, Anchors: Middle East & Islamic Studies
+pageID: 106 pageRank: 0.16998269568969276 title: Cornell Open Access Publishing Fund, Anchors: Cornell Open Access Publication (COAP) Fund
+pageID: 107 pageRank: 10.113044409762857 title: Course Help | Cornell University Library, Anchors: Course Help,Course Reserves
+pageID: 108 pageRank: 10.341057956867388 title: Help | Cornell University Library, Anchors: Help
+pageID: 109 pageRank: 0.647275753584056 title: Trouble Connecting | Cornell University Library
+pageID: 110 pageRank: 0.1589466337205043 title: Still Not Able to Connect? | Cornell University Library
+pageID: 111 pageRank: 0.647275753584056 title: Frequently Asked Questions | Cornell University Library
+pageID: 112 pageRank: 0.1589466337205043 title: DLIT - Division of Library Information Technologies | Cornell University Library
+pageID: 113 pageRank: 0.32181408228838493 title: Digital Scholarship & Preservation Services | Cornell University Library, Anchors: Digital Scholarship & Preservation Services,Digital Scholarship Services (DSS)
+pageID: 114 pageRank: 0.1589466337205043 title: Fall Break:  Saturday, October 8 - Tuesday, October 11, 2011 Thanksgiving Recess:  Wednesday, November 23 - Sunday, November 27, 2011 | Cornell University Library
+pageID: 115 pageRank: 0.1589466337205043 title: Fall Semester:  Wednesday, August 24, 2011 - Friday, December 16, 2011 | Cornell University Library
+pageID: 116 pageRank: 0.9632102807359421 title: Home | FINE ARTS LIBRARY, Anchors: http://www.library.cornell.edu/finearts,Fine Arts Library
+pageID: 118 pageRank: 0.1589466337205043 title: Get Started | Cornell University Library
+pageID: 119 pageRank: 0.3515762317994491 title: Library Hours | Cornell University Library, Anchors: map,Visit Us,Library Hours,maps
+pageID: 120 pageRank: 0.2722450586803756 title: Olin Interlibrary Staff and Office Hours, Anchors: Contact
+pageID: 121 pageRank: 0.1764219711919745 title: , Anchors: list of offices and locations
+pageID: 122 pageRank: 0.2722450586803756 title: Olin Borrowing, Anchors: Policies
+pageID: 123 pageRank: 0.39987676621759133 title: Olin Interlibrary Services, Anchors: Olin Library
+pageID: 124 pageRank: 10.531007678180114 title: Home | Cornell University Library, Anchors: Home
+pageID: 125 pageRank: 0.19785023078922964 title: Libraries on the Ithaca Campus | Cornell University Library, Anchors: Map of the Libraries
+pageID: 126 pageRank: 10.113044409762855 title: My Account | Cornell University Library, Anchors: My Account
+pageID: 127 pageRank: 0.1589466337205043 title: Cornell Library Annex
+pageID: 128 pageRank: 0.4912440406222365 title: Library Practices on the collection, use, disclosure, maintenance and protection of personally-identifiable information  | Cornell University Library, Anchors: Library practices on the collection, use, disclosure, maintenance and protection of personally-identifiable information
+pageID: 129 pageRank: 0.3317577330664149 title: Cornell University Department of Preservation and Conservation Home Page, Anchors: Cornell University Library,Department of Preservation and Conservation
+pageID: 130 pageRank: 0.17064503966893943 title: Cornell University Department of Preservation and Conservation, Anchors: www.library.cornell.edu/preservation/com/comfin.html
+pageID: 131 pageRank: 0.29994371132521486 title: Moving Theory into Practice: Digital Imaging Tutorial, Cornell University Library
+pageID: 132 pageRank: 4.691243522824382 title: Privacy and Confidentiality in the Cornell University Library | Cornell University Library, Anchors: Privacy,Privacy and Confidentiality in the Cornell University Library
+pageID: 133 pageRank: 0.1589466337205043 title: Make Your Own Recommendation | Cornell University Library
+pageID: 134 pageRank: 0.1589466337205043 title: URBAN PLANNING, 1794-1918:
+pageID: 135 pageRank: 10.209521518462324 title: Requests | Cornell University Library, Anchors: Requests
+pageID: 136 pageRank: 1.8373236800711625 title: Class Instruction | Cornell University Library, Anchors: Class Instruction for Faculty and Instructors,Library instruction requests,filling out this form
+pageID: 137 pageRank: 0.3072221550537163 title: Request Materials | Cornell University Library, Anchors: Request
+pageID: 138 pageRank: 0.1589466337205043 title: Still Not Able to Connect? | Cornell University Library
+pageID: 139 pageRank: 10.24862974866305 title: Research Help | Cornell University Library, Anchors: Research Help,Research help pages
+pageID: 140 pageRank: 0.1821343224426811 title: Citing Sources | Cornell University Library, Anchors: Citing Sources
+pageID: 141 pageRank: 0.3273551248365687 title: Annotated Bibliography Tutorial | Cornell University Library, Anchors: Annotated Bibliography Tutorial,Annotated bibliography tutorial,Annotated bibliography how-to
+pageID: 142 pageRank: 1.6210693884759195 title: Citation Management | Cornell University Library, Anchors: Citation Management Software:,Citation Management
+pageID: 143 pageRank: 0.3646110393128245 title: APA Citation Style | Cornell University Library, Anchors: APA,APA Citation Style,APA citation style
+pageID: 144 pageRank: 0.24506616305154283 title: Code of Academic Integrity  | Cornell University Library, Anchors: Code of Academic Integrity
+pageID: 145 pageRank: 0.34223415787037387 title: MLA Citation Style  | Cornell University Library, Anchors: MLA,MLA citation style,Citing Materials from Online Sources
+pageID: 146 pageRank: 1.566785767371493 title: Current Awareness | Cornell University Library, Anchors: Current Awareness
+pageID: 147 pageRank: 0.26992757756729435 title: Table of Contents (TOC) Alerts  | Cornell University Library, Anchors: Table of Contents (TOC) Alerts
+pageID: 148 pageRank: 1.608692723142575 title: Introduction to Research | Cornell University Library, Anchors: Introduction to Research
+pageID: 149 pageRank: 0.2309146479219224 title: Finding Articles, Databases and Images | Cornell University Library, Anchors: articles, databases, images
+pageID: 150 pageRank: 0.2309146479219224 title: Finding Dissertations | Cornell University Library, Anchors: dissertations
+pageID: 151 pageRank: 0.2960692886666602 title: Finding Books, Music, Video and Audio Materials | Cornell University Library, Anchors: Finding Books,books, music, video and audio materials
+pageID: 152 pageRank: 2.438638835570595 title: Research Consultation | Cornell University Library, Anchors: Research Consultation,research consultation appointment,Consultations with librarians
+pageID: 153 pageRank: 0.17065378188411331 title: Kroch South Asia Collections, Anchors: http://asia.library.cornell.edu/ac/SouthAsia/
+pageID: 154 pageRank: 1.4688653452945433 title: Affordable Publishing, Anchors: Alternative Publishing Models
+pageID: 155 pageRank: 1.468865345294543 title: Transforming Scholarly Communication and Libraries, Anchors: Copyright Management,Copyright of Faculty Publications
+pageID: 156 pageRank: 0.3799324147175083 title: Transforming Scholarly Communication and Libraries, Anchors: list
+pageID: 157 pageRank: 1.5790586477215753 title: Transforming Scholarly Communication and Libraries, Anchors: Home,Scholarly Communications
+pageID: 158 pageRank: 1.468865345294543 title: Open Access | Overview, Anchors: Open Access
+pageID: 159 pageRank: 0.3799324147175083 title: Transforming Scholarly Communication and Libraries, Anchors: resolution,Faculty Senate resolution
+pageID: 160 pageRank: 1.5599946130339613 title: Serials Pricing | Framing the Topic, Anchors: Serials Pricing,The Crisis in Scholarly Publication Prices
+pageID: 161 pageRank: 0.17404491359433438 title: Search Tips: Articles | Cornell University Library, Anchors: Search Tips page for Articles
+pageID: 162 pageRank: 10.113044409762855 title: Libraries | Cornell University Library, Anchors: Libraries
+pageID: 163 pageRank: 0.9669085449591299 title: About Summon | Cornell University Library, Anchors: About Summon
+pageID: 164 pageRank: 10.408105424639581 title: Library Services | Cornell University Library, Anchors: Library Services
+pageID: 165 pageRank: 2.690612243365007 title: Borrowing and Delivery | Cornell University Library, Anchors: Borrowing and Delivery,Delivery Services,Borrowing & delivery,Borrowing
+pageID: 166 pageRank: 2.8060779454070226 title: Columbia Library Borrowing Privileges (2CUL) | Cornell University Library, Anchors: more information,Columbia Library Borrowing Privileges,Columbia Library borrowing privileges (2CUL),Columbia University Library borrowing (2CUL),Columbia borrowing privileges (2CUL)
+pageID: 167 pageRank: 1.0099806545404946 title: Borrow Direct | Cornell University Library, Anchors: Borrow Direct,more info...
+pageID: 168 pageRank: 0.2406261568403463 title: Card Holder Policies | Cornell University Library, Anchors: Library Card holders (guest borrowers)
+pageID: 169 pageRank: 0.2751570265996549 title: Items That are Checked Out | Cornell University Library, Anchors: recall,more info...,Recall/Hold
+pageID: 170 pageRank: 0.2672695637294925 title: Document Delivery FAQ | Cornell University Library, Anchors: Document Delivery
+pageID: 171 pageRank: 0.2406261568403463 title: Faculty and Staff Policies | Cornell University Library, Anchors: Faculty and Staff
+pageID: 172 pageRank: 0.2593297579010907 title: Graduate Student Policies | Cornell University Library, Anchors: Graduate Student Policies,Graduate students
+pageID: 173 pageRank: 0.30805887336756477 title: Graduate Students  Undergoing a Change in Status | Cornell University Library, Anchors: students in absentia or who are no longer registered,see information about options,Graduate students
+pageID: 174 pageRank: 0.322288244951287 title: Interlibrary Loan FAQ | Cornell University Library, Anchors: Interlibrary Loan,registration
+pageID: 175 pageRank: 0.40866847928176625 title: Items in Other Cornell Libraries | Cornell University Library, Anchors: more info...,Library-to-Library Book Delivery Service,http://www.library.cornell.edu/svcs/borrow/othercul,Library-to-Library book delivery
+pageID: 176 pageRank: 0.25635942314842547 title: Proxy Borrowers | Cornell University Library, Anchors: Proxy Borrowers
+pageID: 177 pageRank: 0.2406261568403463 title: Renewing Books | Cornell University Library, Anchors: Renewing books
+pageID: 178 pageRank: 0.2406261568403463 title: Returning Books | Cornell University Library, Anchors: Returning books
+pageID: 179 pageRank: 0.2406261568403463 title: Undergraduate Policies | Cornell University Library, Anchors: Undergraduate students
+pageID: 180 pageRank: 1.9470752474903414 title: Disability Services | Cornell University Library, Anchors: AT resources,assistive technology devices,Disability Services
+pageID: 181 pageRank: 0.1589466337205043 title: Cornell University Library
+pageID: 182 pageRank: 1.3881901970504869 title: For Graduate Students | Cornell University Library, Anchors: For Graduate Students,For Grad Students
+pageID: 183 pageRank: 1.5361733549776078 title: Select Library Spaces | Cornell University Library, Anchors: Select Library Spaces,Library Spaces
+pageID: 184 pageRank: 0.29231408403353754 title: All Library Spaces | Cornell University Library, Anchors: All Library Spaces,« first,1,‹ previous
+pageID: 185 pageRank: 0.24599665764346737 title: Library Spaces: Meeting Room for Students | Cornell University Library, Anchors: Students
+pageID: 186 pageRank: 0.24599665764346737 title: Library Spaces: Meeting Room for Faculty | Cornell University Library, Anchors: Faculty
+pageID: 187 pageRank: 0.1589466337205043 title: Library Spaces: Meeting Room for Faculty | Cornell University Library
+pageID: 188 pageRank: 0.25659285018639977 title: Library Spaces: Meeting Room for Staff | Cornell University Library, Anchors: « first,‹ previous,1,Staff
+pageID: 189 pageRank: 0.17452550017685398 title: Library Spaces: Meeting Room for Staff | Cornell University Library, Anchors: 2,next ›,last »
+pageID: 190 pageRank: 0.1589466337205043 title: Library Spaces: Meeting Room | Cornell University Library
+pageID: 191 pageRank: 0.2169529301362408 title: All Library Spaces | Cornell University Library, Anchors: 2,‹ previous,next ›
+pageID: 192 pageRank: 0.2169529301362408 title: All Library Spaces | Cornell University Library, Anchors: 3,next ›,‹ previous
+pageID: 193 pageRank: 0.2169529301362408 title: All Library Spaces | Cornell University Library, Anchors: 4,‹ previous,next ›
+pageID: 194 pageRank: 0.2169529301362408 title: All Library Spaces | Cornell University Library, Anchors: ‹ previous,5,next ›
+pageID: 195 pageRank: 0.2169529301362408 title: All Library Spaces | Cornell University Library, Anchors: 6,next ›,last »
+pageID: 196 pageRank: 2.226835474067254 title: For Faculty and Instructors | Cornell University Library, Anchors: For Faculty and Instructors
+pageID: 197 pageRank: 1.5641874426882232 title: Workshops and Instruction | Cornell University Library, Anchors: Workshops and instruction sessions,Workshops and Instruction
+pageID: 198 pageRank: 0.35267620478874073 title: Faculty Office Delivery | Cornell University Library, Anchors: Office delivery,more info...,Faculty Office Delivery
+pageID: 199 pageRank: 1.0614737248881827 title: Course Reserves | Cornell University Library, Anchors: Course Reserves,Course Reserves for Faculty and Instructors,Course reserves
+pageID: 200 pageRank: 0.21533754524857807 title: Printable Reserve Forms | Cornell University Library, Anchors: Printable forms
+pageID: 201 pageRank: 0.22920017841654622 title: General Reserve Information | Cornell University Library, Anchors: General Reserve Information,Reserves Processing System (instructions),General information about reserves,Electronic reserves through Blackboard,Placing items on reserve in the Library
+pageID: 202 pageRank: 0.22832556437450352 title: Linking to Library Resources | Cornell University Library, Anchors: Linking to library resources,How to create links to library resources
+pageID: 203 pageRank: 1.8862459999530703 title: Digitization, Publishing, and Copyright | Cornell University Library, Anchors: Digitization, publishing, and copyright,Scholarly Publishing,Digitization, Publishing, and Copyright,Digitization and Digital Content Management
+pageID: 204 pageRank: 0.5802282858118607 title: Social-Networking Practices | Cornell University Library, Anchors: Social-Networking Practices
+pageID: 205 pageRank: 0.39136479685629916 title: Instruction Coordinators | Cornell University Library, Anchors: contact an instruction coordinator.,Instruction Coordinator
+pageID: 206 pageRank: 0.20366781344228174 title: LibeScope | Cornell University Library, Anchors: « first,‹ previous,1
+pageID: 207 pageRank: 0.20298517287247242 title: LibeScope | Cornell University Library, Anchors: 2,next ›,‹ previous
+pageID: 208 pageRank: 0.20427396767392084 title: LibeScope | Cornell University Library, Anchors: 3,next ›,‹ previous
+pageID: 209 pageRank: 0.20298517287247242 title: LibeScope | Cornell University Library, Anchors: 4,‹ previous,next ›
+pageID: 210 pageRank: 0.20298517287247242 title: LibeScope | Cornell University Library, Anchors: 5,last »,next ›
+pageID: 211 pageRank: 0.2152817075553845 title: Teaching, Research, Outreach, and Learning Services | Cornell University Library, Anchors: Teaching, Research, Outreach, and Learning Services
+pageID: 212 pageRank: 0.25113223073406477 title: Digitization | Cornell University Library, Anchors: Digitization,self-service scanning facilities
+pageID: 213 pageRank: 0.2519767907841132 title: Equipment & Software | Cornell University Library, Anchors: Equipment & Software
+pageID: 214 pageRank: 0.25113223073406477 title: FAQ | Cornell University Library, Anchors: FAQ
+pageID: 215 pageRank: 0.25113223073406477 title: Research Support | Cornell University Library, Anchors: Research Support
+pageID: 216 pageRank: 0.8883091168855441 title: Research Tools | Cornell University Library, Anchors: Visual Resources Web page,Research Tools,Visual resources
+pageID: 217 pageRank: 0.9964806453375403 title: Search Tips: Catalog | Cornell University Library, Anchors: search tips,Search Tips,Catalog search tips
